@@ -1,0 +1,9 @@
+Insights from Sales Dashboard
+
+Technology category leads in overall sales, contributing nearly 38% of total revenue, followed by Office Supplies (33%) and Furniture (29%) — showing strong demand for tech-related products.
+
+Central and South regions are the top-performing regions, with combined sales crossing 4M+, while Canada and Caribbean show minimal activity — highlighting potential markets for growth or marketing focus.
+
+Sales show a gradual downward trend over time (as seen in the Month-Year line chart), indicating either seasonal slowdown or reduced customer demand in later months.
+
+The count of regions by sales chart reveals that most regions have lower sales counts, with only a few dominating, suggesting uneven distribution of performance across regions.
